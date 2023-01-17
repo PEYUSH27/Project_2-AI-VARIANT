@@ -1,1 +1,1 @@
-# Project-2-ExcelR
+Stock Price Forecasting and Prediction
